@@ -4,4 +4,4 @@ Most supervised machine learning problems in the real world are classification p
 
 Training a simple logistic regression classifier on this dataset can give you accuracy as high as 0.90.
 
-Dataset: (Kaggle Breast Cancer Classification Dataset)[https://www.kaggle.com/c/breast-cancer-classification]
+Dataset: (Kaggle Breast Cancer Classification Dataset)[https://www.kaggle.com/datasets/rahmasleam/breast-cancer]
